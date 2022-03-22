@@ -21,5 +21,5 @@ def post(item):
 
 while True:
     scraper()
-    print("Done")
+    print("Database updated")
     time.sleep(60)
